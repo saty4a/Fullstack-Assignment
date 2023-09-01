@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #122736;
+  color: white;
+  height: 100%;
+}
+
+/* .App {
+  text-align: center;
+} */
+
+.checkIcon {
+  transform: rotate(135deg);
+}
+
+table {
+  border: 2px solid forestgreen;
+  width: 800px;
+  height: 200px;
+}
+
+th {
+  border-bottom: 1px solid black;
+  border-right: 2px solid black;
+}
+
+/* .desc {
+  height: 2rem !important;
+  width: 10rem !important;
+} */
+
+td {
+  text-align: center;
+  border-bottom: 1px solid black;
+  border-right: 2px solid black;
+}
